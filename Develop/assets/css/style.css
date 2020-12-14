@@ -114,7 +114,7 @@ p {
 
 
 
-
+/* I was unable to consolodate the next 3*/
 
 .seo {
     margin-bottom: 20px;
@@ -151,17 +151,14 @@ p {
     max-height: 200px;
 }
 
-.smm img {
-    max-height: 200px;
-}
 
-.seo .orm .smm h2 {
+.seo .orm h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
 
-
+/*Behold! the footer section */
 .footer {
     padding: 30px;
     clear: both;
